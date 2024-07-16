@@ -1,3 +1,6 @@
 div{
     color: #012;
 }
+div:hover{
+    color: #ffff77;
+}
